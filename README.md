@@ -10,8 +10,10 @@
 - 🌱 I’m always learning
 - 👯 I’m open to collaborate
 - 🤔 ❤️ I love writing HTML, CSS, JavaScript, PHP
-- 💬 Ask me about anything [Peguy2n@gmail.com](mailto:peguy2n@gmail.com)  
-- 📫 How to reach me: @linkedin
+- 💬 Ask me about anything [here](https://github.com/peguy2n/peguy2n)
+- 📫 How to reach me: [![Peguy2n](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peguy2n) @peguy2n
+
+
 - 🔭 Passionate about Nature, Space & Technology
 - ⚡ Fun fact: ...
 -->
